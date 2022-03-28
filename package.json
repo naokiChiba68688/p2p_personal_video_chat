@@ -1,0 +1,23 @@
+{
+  "name": "p2p_personal_video_chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naokiChiba68688/p2p_personal_video_chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naokiChiba68688/p2p_personal_video_chat/issues"
+  },
+  "homepage": "https://github.com/naokiChiba68688/p2p_personal_video_chat#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "soket.io": "0.0.1-security"
+  }
+}
